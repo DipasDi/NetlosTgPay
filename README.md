@@ -16,6 +16,7 @@
 **Libraries**:  
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API framework  
 - `net/http` - EasyDonate API integration  
-- `sync.Map` - Thread-safe session storage  
+- `sync.Map` - Thread-safe session storage
+
 **Architecture**: Modular (handlers, models, storage)
 
